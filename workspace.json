@@ -11,7 +11,7 @@
           "builder": "@nrwl/next:build",
           "options": {
             "root": "apps/portal",
-            "outputPath": "."
+            "outputPath": "dist/apps/portal"
           },
           "configurations": {
             "production": {}
