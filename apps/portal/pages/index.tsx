@@ -33,7 +33,7 @@ export function Index() {
             className="resource flex"
             href="https://connect.nrwl.io/app/courses/nx-workspaces/intro"
           >
-            Nx video course test
+            Nx video course test 2
           </a>
         </li>
         <li className="col-span-2">
